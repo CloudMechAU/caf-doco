@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Empowering the SRE on Azure',
-    Svg: require('../../static/img/1638812344-tfc-build-pattern.svg').default,
+    Svg: require('../../static/img/terraform.png').default,
     description: (
       <>
         We equip the Site Reliability Engineering on Azure providing community-driven and built artifacts.

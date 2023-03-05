@@ -3,6 +3,10 @@
  * and scoped locally.
  */
 
+html {
+  font-family: 'Red+Hat+Display';
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;

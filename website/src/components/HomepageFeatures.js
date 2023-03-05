@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Configuration-driven IaC',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/1638812445-tfc-standardize-pattern.svg').default,
     description: (
       <>
         Spend your time deploying what you need on Azure, not writing IaC modules.

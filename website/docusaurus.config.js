@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',
   tagline: 'Everything-As-Code. Opinionated.',
-  url: 'https://aztfmod.github.io',
+  url: 'https://caf.azure.cloudmech.com.au',
   baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/landingzones.ico',
-  organizationName: 'aztfmod', // Usually your GitHub org/user name.
+  organizationName: 'CloudMechAU', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
   presets: [
@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cloud Adoption Framework for Terraform Landing zones.`,
+        copyright: `Copyright CloudMech AU Pty Ltd © ${new Date().getFullYear()} Cloud Adoption Framework for Terraform Landing zones.`,
       },
       prism: {
         theme: darkCodeTheme,

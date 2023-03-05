@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Empowering the SRE on Azure',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/1638812344-tfc-build-pattern.svg').default,
     description: (
       <>
         We equip the Site Reliability Engineering on Azure providing community-driven and built artifacts.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'DevOps by nature',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/1638812561-tfc-innovate-pattern.svg').default,
     description: (
       <>
         Whichever DevOps tools you are using, we have you covered.

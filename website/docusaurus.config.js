@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',

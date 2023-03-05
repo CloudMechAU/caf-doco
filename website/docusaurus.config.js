@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',
   tagline: 'Everything-As-Code. CloudMech\'s guidance for Azure workloads.',
-  url: 'https://cloudmech-caf-terraform.netlify.app',
+  url: 'https://caf.azure.cloudmech.com.au',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/landingzones.ico',
-  organizationName: 'CloudMechAU', // Usually your GitHub org/user name.
-  projectName: 'caf-doco', // Usually your repo name.
+  organizationName: 'CloudMech AU Pty Ltd', // Usually your GitHub org/user name.
+  projectName: 'Enterprise Azure Landing Zone Deployment', // Usually your repo name.
 
   presets: [
     [
@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/cloudmech-sc/caf-doco/tree/main/website/',
+          editUrl: 'https://github.com/CloudMechAU/caf-doco/tree/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/cloudmech-sc/caf-doco/tree/main/website/',
+          editUrl: 'https://github.com/CloudMechAU/caf-doco/tree/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Cloud Adoption Framework',
+        title: 'CloudMech\'s Azure Cloud Adoption Framework',
         logo: {
           alt: 'Cloud Adoption Framework for Terraform Landing zones.',
           src: 'img/logo_landingzone.png',
@@ -98,7 +98,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/cloudmech-sc/caf-doco',
+            href: 'https://github.com/CloudMechAU/caf-doco',
             label: 'GitHub',
             position: 'right',
           },

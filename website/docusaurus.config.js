@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',
   tagline: 'Everything-As-Code. Opinionated.',
-  url: 'https://caf.azure.cloudmech.com.au',
+  url: 'https://cloudmech-caf-terraform.netlify.app',
   baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

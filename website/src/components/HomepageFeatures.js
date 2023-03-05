@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/1641936353-tf-product-page-visual-3.svg').default,
     description: (
       <>
-        Spend your time deploying what you need on Azure, not writing IaC modules.
+        Spend your time deploying what you need on Azure, not writing Infrastructure-as-Code modules.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/1638812561-tfc-innovate-pattern.svg').default,
     description: (
       <>
-        Whichever DevOps tools you are using, we have you covered.
+        Whichever DevOps tools you are using, platform environments are consistent and ready.
       </>
     ),
   },

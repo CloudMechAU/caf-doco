@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: rgb(146, 181, 224);
   --ifm-code-font-size: 95%;
   --ifm-font-family-base: "Red Hat Display",system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,Cantarell,"Noto Sans",sans-serif,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  --ifm-breadcrumb-size-multiplier: 1.0;
 }
 
 .docusaurus-highlight-code-line {
@@ -26,4 +27,8 @@
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+.badge {
+  font-size: 100%;
 }

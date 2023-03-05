@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',
-  tagline: 'Everything-As-Code. Opinionated.',
+  tagline: 'Everything-As-Code. CloudMech\'s guidance for Azure workloads.',
   url: 'https://cloudmech-caf-terraform.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/landingzones.ico',
   organizationName: 'CloudMechAU', // Usually your GitHub org/user name.
-  projectName: 'documentation', // Usually your repo name.
+  projectName: 'caf-doco', // Usually your repo name.
 
   presets: [
     [
@@ -90,7 +90,7 @@ const config = {
             type: 'doc',
             docId: 'azure-landing-zones/landingzones/alz-intro',
             position: 'left',
-            label: 'Azure landing zones',
+            label: 'Azure Landing Zones',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -120,7 +120,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'CloudMech Consulting',
+                label: 'CloudMech | IT Consultancy',
                 href: 'https://www.cloudmech.com.au',
               },
               {

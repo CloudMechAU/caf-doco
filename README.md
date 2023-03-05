@@ -6,7 +6,7 @@ This repository centralizes documentation and guidance efforts to deploy CAF Ter
 
 Feel free to open an issue for feature or bug, or to submit a pull request.
 
-In case you have any questions, you can reach out CloudMech at consult-request at cloudmech dot com dot au or to tf-landingzones at microsoft dot com.
+In case you have any questions, you can reach out CloudMech at azure@cloudmech.com.au or to tf-landingzones@microsoft.com.
 
 You can also reach Microsoft on [Gitter](https://gitter.im/aztfmod/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 

@@ -36,3 +36,7 @@ p {
 .badge {
   font-size: 100%;
 }
+
+.markdown li, body {
+    font-size: 1.1rem;
+}

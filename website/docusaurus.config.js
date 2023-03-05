@@ -9,7 +9,7 @@ const config = {
   title: 'Cloud Adoption Framework for Terraform landing zones',
   tagline: 'Everything-As-Code. Opinionated.',
   url: 'https://cloudmech-caf-terraform.netlify.app',
-  baseUrl: '/documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/landingzones.ico',

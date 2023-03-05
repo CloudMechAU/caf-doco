@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/aztfmod/documentation/tree/main/website/',
+          editUrl: 'https://github.com/cloudmech-sc/documentation/tree/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/aztfmod/documentation/tree/main/website/',
+          editUrl: 'https://github.com/cloudmech-sc/documentation/tree/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -98,7 +98,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/aztfmod/documentation',
+            href: 'https://github.com/cloudmech-sc/documentation',
             label: 'GitHub',
             position: 'right',
           },

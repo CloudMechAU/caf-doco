@@ -29,6 +29,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+p {
+  font-size: 1.1rem;
+}
+
 .badge {
   font-size: 100%;
 }

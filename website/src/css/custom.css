@@ -14,6 +14,7 @@
   --ifm-color-primary-lighter: rgb(102, 133, 212);
   --ifm-color-primary-lightest: rgb(146, 181, 224);
   --ifm-code-font-size: 95%;
+  --ifm-font-family: 'Red+Hat+Display';
 }
 
 .docusaurus-highlight-code-line {

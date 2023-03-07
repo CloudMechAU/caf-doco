@@ -232,7 +232,8 @@ skipping: [localhost]
 
 ## Deploy launchpad (level0)
 
-Go to the /tf/caf/configuration/contoso/platform/level0/launchpad/readme.md
+Open and review the Level0 (aka Launchpad) configuration readme **/tf/caf/configuration/level0/launchpad/readme.md**
+Proceed with the readme.md instructions to deploy the level0 resources.
 
 ![](../level0-launchpad-readme.png)
 
